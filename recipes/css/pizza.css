@@ -1,0 +1,15 @@
+body {
+    background-color: antiquewhite;
+}
+.number,
+.duo {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif; 
+}
+.number {
+background-color: black;
+color: white;
+}
+.duo {
+    background-color: Yellow;
+}
