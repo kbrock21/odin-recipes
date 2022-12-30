@@ -1,5 +1,10 @@
 body {
-    background-color: antiquewhite;
+    background-color: rgb(212, 139, 44);
+}
+#title {
+    background-color:red;
+    color: yellow;
+    text-align: center;
 }
 .number,
 .duo {
@@ -12,4 +17,21 @@ color: white;
 }
 .duo {
     background-color: Yellow;
+    color: black;
+}
+p,
+h2,
+h3 {
+    font-family:Courier New;
+    font-weight: bold;
+    color:rgb(20, 15, 9)
+}
+img {
+    width: 400px;
+    height: 200px;
+    box-shadow: 10px 10px 5px black;
+
+}
+li {
+    font-family:'Courier New', Courier, monospace;
 }
