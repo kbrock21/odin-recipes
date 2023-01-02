@@ -1,0 +1,36 @@
+body {
+    background-color: green;
+}
+.gradient {
+    background: linear-gradient(green, orange);
+  
+}
+p,
+li {
+    font-size:large;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+h1,
+ {
+    text-align: center;
+    height: 100px;
+    background-color: red;
+    background-image:
+      linear-gradient(
+        to right, 
+        #fffdc2,
+        #fffdc2 15%,
+        #d7f0a2 15%,
+        #d7f0a2 85%,
+        #fffdc2 85%
+      );
+  }
+.best {
+    color: black;
+    background-color:rgb(255, 217, 0);
+}
+.back {
+    color:black;
+    background-color:rgb(221, 155, 12);
+}
